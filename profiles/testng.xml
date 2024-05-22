@@ -1,0 +1,8 @@
+<suite name="Selenium" verbose="1" >
+    <test name="Test Tutorial" >
+        <classes>
+            <class name="tests.TestTutorialsPoint" />
+        </classes>
+    </test>
+
+</suite>
